@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\logan\Desktop\FunkyHippo3.1-73887a404e452efede990471f5de8fe94d927a77\FunkyHippo3.0-55af954e23affe24b41dcbc16a9511488e72b1a7\FunkyHippo\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\logan\Desktop\FunkyHippo3.1-73887a404e452efede990471f5de8fe94d927a77\FunkyHippo3.0-55af954e23affe24b41dcbc16a9511488e72b1a7\FunkyHippo\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\logan\Desktop\FunkyHippo3.1-73887a404e452efede990471f5de8fe94d927a77\FunkyHippo3.0-55af954e23affe24b41dcbc16a9511488e72b1a7\FunkyHippo\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
